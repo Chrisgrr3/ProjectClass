@@ -22,6 +22,5 @@ public class ProjectTest {
         System.out.println("Name: " + goodProj.getName());
         System.out.println("Description: " + goodProj.getDescription());
         System.out.println(goodProj.elevatorPitch());
-
     }
 }
